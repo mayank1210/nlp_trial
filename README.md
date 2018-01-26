@@ -21,7 +21,7 @@ You will need to do at least one of the following:
 
 #### Things not to do
 
-Don't worry about doing sentiment analysis
+Don't do sentiment analysis
 
 # Submission
 You will need to make a pull request to this repository with your name as the branch. Ex. `git checkout -b firstname_lastname`.
