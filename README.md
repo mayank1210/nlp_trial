@@ -11,8 +11,7 @@ You will need to do at least one of the following:
 
 - [ ] Find & count the named entities in the post. NER [https://www.wikiwand.com/en/Named-entity_recognition]
 - [ ] Use a clustering algorithm to group the entities/themes [https://noisy-text.github.io/2015/pdf/WNUT21.pdf]
-- [ ] Write a classification algorithm that puts each post into at least 3 classes.
-- [ ] 
+- [ ] Write a classification algorithm that puts each post into 3-10 classifications of your choosing.
 
 ####Extra Credit
 
