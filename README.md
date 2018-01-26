@@ -13,13 +13,13 @@ You will need to do at least one of the following:
 - [ ] Use a clustering algorithm to group the entities/themes [https://noisy-text.github.io/2015/pdf/WNUT21.pdf]
 - [ ] Write a classification algorithm that puts each post into 3-10 classifications of your choosing.
 
-####Extra Credit
+#### Extra Credit
 
 - [ ] Visualize the data set
 - [ ] Compare two libraries and discuss the strengths/weaknesses
 - [ ] Add benchmarking to show the speed of making predictions
 
-####Things not to do
+#### Things not to do
 
 Don't worry about doing sentiment analysis
 
