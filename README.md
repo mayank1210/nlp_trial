@@ -16,7 +16,7 @@ You will need to do at least one of the following:
 #### Extra Credit
 
 - [ ] Visualize the data set
-- [ ] Compare two libraries and discuss the strengths/weaknesses
+- [ ] Compare the output of 2 or more NLP libraries and discuss the strengths/weaknesses
 - [ ] Add benchmarking to show the speed of making predictions
 
 #### Things not to do
