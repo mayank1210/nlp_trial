@@ -28,20 +28,40 @@ You will need to make a pull request to this repository with your name as the br
 In the main.py file you will need to include instructions about how to run your program.
 
 # Required Libraries for running main.py
-Pandas
-Numpy
-Plotly
-Cufflins
-Gensim
-Spacy
-ntlk
-sklearn 
-matplotlib
-seaborn
-multiprocessing
+--Pandas (for python data structure)
+pip install pandas  OR  conda install pandas
 
-all the libraries can be installed using pip or conda
-for eg: pip install spacy  OR  conda install spacy
+--Numpy (for mathematical imputation)
+pip install numpy  OR  conda install numpy
+
+--Plotly (for graphs)
+pip insatll plotly or conda install plotly
+
+-- Cufflins
+pip install cufflinks  OR  conda install cufflinks
+
+--Gensim (for vector model)
+pip install gensim  OR  conda install gensim
+
+--Spacy (for NER)
+pip install spacy  OR  conda install spacy
+
+--ntlk (for NLP)
+pip install nltk  OR  conda install nltk
+
+--sklearn (tools for data mining and data analysis)
+pip install sklearn  OR  conda install sklearn
+
+--matplotlib (for graph)
+pip install matplotlib  OR  conda install matplotlib
+
+--seaborn (for graph)
+pip install seaborn  OR  conda install seaborn
+
+--multiprocessing (for spawning processes)
+pip install multiprocessing OR conda install multiprocessing
+
+Also run "python -m spacy download en" for englsih vocab
 
 #Main File
 Python version 2.7 was used.
