@@ -63,7 +63,8 @@ pip install multiprocessing OR conda install multiprocessing
 
 Also run "python -m spacy download en" for englsih vocab
 
-#Main File
+# Main File
+
 Python version 2.7 was used.
 All the code is in the jupyter notebook. It is also present in py and pdf format.
 
