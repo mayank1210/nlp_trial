@@ -27,3 +27,24 @@ Don't do sentiment analysis
 You will need to make a pull request to this repository with your name as the branch. Ex. `git checkout -b firstname_lastname`.
 In the main.py file you will need to include instructions about how to run your program.
 
+# Required Libraries for running main.py
+Pandas
+Numpy
+Plotly
+Cufflins
+Gensim
+Spacy
+ntlk
+sklearn 
+matplotlib
+seaborn
+multiprocessing
+
+all the libraries can be installed using pip or conda
+for eg: pip install spacy  OR  conda install spacy
+
+#Main File
+Python version 2.7 was used.
+All the code is in the jupyter notebook. It is also present in py and pdf format.
+
+
